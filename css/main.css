@@ -80,7 +80,7 @@ body {
 .header__block {
   display: flex;
   flex-direction: column;
-  text-align: center;
+  align-items: center;
 }
 
 .header__img {
@@ -112,7 +112,7 @@ body {
 }
 
 .header__subtitle {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 11px;
   line-height: 1.1818181818;
   text-transform: uppercase;
